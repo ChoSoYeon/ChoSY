@@ -1,3 +1,6 @@
+window.html5 = {
+	'shivCSS': false
+};
 body{
   font-family: sans-serif;
   margin: 0;
