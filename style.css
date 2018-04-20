@@ -8,14 +8,14 @@ body{
   text-decoration: none;
   position: relative;
   margin-top: 70px;
-  margin-left: 60px;
-  margin-right: 60px;
+  margin-left: 120px;
+  margin-right: 120px;
   padding-left: 40px;
   display: block;
   letter-spacing: -1px;
   font-weight: 800;
   font-size: 40px;
-  color: #000000;
+  color: #343945;
 }
 #menu{
   display: block;
@@ -23,8 +23,8 @@ body{
   font-size: 22px;
 }
 #list{
-  margin-left: 60px;
-  margin-right: 60px;
+  margin-left: 120px;
+  margin-right: 120px;
   text-decoration: none;
   list-style: none;
 }
@@ -35,14 +35,13 @@ body{
   text-align: left;
 }
 #list li a{
-  font-weight: bold;
   text-decoration: none;
-  color: #000000;
+  color: #343945;
 }
 #contents img{
   display: block;
   max-width: 100%;
-	width: 1200px;
+	width: 800px;
   margin-bottom: 6px;
   margin-left: auto;
   margin-right: auto;
@@ -53,11 +52,11 @@ body{
   line-height: 24px;
   margin-top: 80px;
   position: relative;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 160px;
+  margin-right: 160px;
 }
 #menu a:hover {
- color: gray;
+ color: #70798D;
  text-decoration: none;
 }
 #email{
