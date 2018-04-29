@@ -18,7 +18,7 @@ body{
   color: #343945;
 }
 #menu{
-  display: block;
+  display: inline-block;
   margin-top: 40px;
   font-size: 22px;
 }
@@ -37,6 +37,20 @@ body{
 #list li a{
   text-decoration: none;
   color: #343945;
+}
+#contents {
+  display: block;
+	width: 1000px;
+  margin-bottom: 6px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#gifBg{
+  display: block;
+  height: 480px;
+  width: 1000px;
+  background-color: #3300CC;
+  margin-bottom: 20px;
 }
 #contents img{
   display: block;
