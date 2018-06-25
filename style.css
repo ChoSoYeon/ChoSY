@@ -116,21 +116,3 @@ body{
   right: 80px;
   text-decoration: none;
 }
-.pofolTitle{
-  font-size: 28pt;
-  font-weight: 800;
-  display: block;
-  width: 1000px;
-  margin-left: auto;
-}
-
-.pofolTitleDiv{
-  margin-left: 40px;
-  margin-top: 280px;
-  margin-bottom: 160px;
-}
-
-.pofolTitleSub{
-  font-weight: 400;
-  color: #797979;
-}
